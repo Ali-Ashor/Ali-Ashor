@@ -21,6 +21,9 @@ I enjoy building real-world applications and continuously improving my programmi
 
 * C++
 * HTML, CSS
+* MS Office
+* Python
+* My SQL
 
 ### 🌐 Web Development
 
@@ -82,7 +85,7 @@ Designed a personal portfolio using HTML, CSS, and WordPress.
 📧 [shujaatashoor@gmail.com](mailto:shujaatashoor@gmail.com)
 
 🔗 LinkedIn:
-https://www.linkedin.com/in/shujaat-ali-086823361
+https://www.linkedin.com/in/shujaat-ali-086823361?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
