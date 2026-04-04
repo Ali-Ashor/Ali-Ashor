@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Shujaat Ali
+<img width="1024" height="1024" alt="ChatGPT Image Apr 4, 2026, 08_28_28 PM" src="https://github.com/user-attachments/assets/0538e492-b60b-4c86-bd8e-6d98b743142d" />
+
 
 🎓 Software Engineering Student | 💻 Aspiring Backend Developer | 🚀 Tech Enthusiast
 
