@@ -52,7 +52,7 @@
 
 <td align="center" width="252">
 
-<img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="80"/>
+<img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="83"/>
 
 <br><br>
 
@@ -64,7 +64,7 @@
 
 <td align="center" width="252">
 
-<img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="80"/>
+<img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="83"/>
 
 <br><br>
 
@@ -80,7 +80,7 @@
 
 <td align="center" width="252">
 
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="80"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="83"/>
 
 <br><br>
 
@@ -92,7 +92,7 @@
 
 <td align="center" width="252">
 
-<img src="https://cdn-icons-png.flaticon.com/512/2991/2991148.png" width="80"/>
+<img src="https://cdn-icons-png.flaticon.com/512/2991/2991148.png" width="83"/>
 
 <br><br>
 
@@ -104,7 +104,7 @@
 
 <td align="center" width="252">
 
-<img src="https://cdn-icons-png.flaticon.com/512/1829/1829586.png" width="80"/>
+<img src="https://cdn-icons-png.flaticon.com/512/1829/1829586.png" width="83"/>
 
 <br><br>
 
