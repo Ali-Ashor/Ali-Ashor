@@ -39,7 +39,6 @@
 
 <td align="center" width="250">
 
-<a href="https://github.com/YOUR_USERNAME?tab=repositories">
 
 <img src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png" width="80"/>
 
