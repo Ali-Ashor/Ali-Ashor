@@ -46,22 +46,17 @@
 
 ## 🌐 Web Development
 
-Click to view all web development projects
-
 </a>
 
 </td>
 
 <td align="center" width="250">
 
-
 <img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="80"/>
 
 <br><br>
 
 ## ⚙️ Backend Development
-
-Click to explore backend projects
 
 </a>
 
@@ -74,8 +69,6 @@ Click to explore backend projects
 <br><br>
 
 ## 🚀 Full Stack Development
-
-View complete full stack applications
 
 </a>
 
@@ -93,8 +86,6 @@ View complete full stack applications
 
 ## 🎨 WordPress Designing
 
-Explore WordPress websites & designs
-
 </a>
 
 </td>
@@ -107,8 +98,6 @@ Explore WordPress websites & designs
 
 ## 📈 SEO Optimization
 
-View SEO related projects & work
-
 </a>
 
 </td>
@@ -120,8 +109,6 @@ View SEO related projects & work
 <br><br>
 
 ## 🎭 Graphic Designing
-
-Explore creative graphic design work
 
 </a>
 
