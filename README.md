@@ -54,7 +54,6 @@ Click to view all web development projects
 
 <td align="center" width="250">
 
-<a href="https://github.com/YOUR_USERNAME?tab=repositories">
 
 <img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="80"/>
 
@@ -69,8 +68,6 @@ Click to explore backend projects
 </td>
 
 <td align="center" width="250">
-
-<a href="https://github.com/YOUR_USERNAME?tab=repositories">
 
 <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="80"/>
 
@@ -90,8 +87,6 @@ View complete full stack applications
 
 <td align="center" width="250">
 
-<a href="https://github.com/YOUR_USERNAME?tab=repositories">
-
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="80"/>
 
 <br><br>
@@ -106,8 +101,6 @@ Explore WordPress websites & designs
 
 <td align="center" width="250">
 
-<a href="https://github.com/YOUR_USERNAME?tab=repositories">
-
 <img src="https://cdn-icons-png.flaticon.com/512/2991/2991148.png" width="80"/>
 
 <br><br>
@@ -121,8 +114,6 @@ View SEO related projects & work
 </td>
 
 <td align="center" width="250">
-
-<a href="https://github.com/YOUR_USERNAME?tab=repositories">
 
 <img src="https://cdn-icons-png.flaticon.com/512/1829/1829586.png" width="80"/>
 
