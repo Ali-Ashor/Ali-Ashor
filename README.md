@@ -1,93 +1,139 @@
-<img width="500" height="500" alt="ChatGPT Image Apr 4, 2026, 08_28_28 PM" src="https://github.com/user-attachments/assets/0538e492-b60b-4c86-bd8e-6d98b743142d" />
+<div align="center">
 
+<img src="https://github.com/user-attachments/assets/0538e492-b60b-4c86-bd8e-6d98b743142d" width="180" style="border-radius:50%;" />
 
-🎓 Software Engineering Student | 💻 Aspiring Backend Developer | 🚀 Tech Enthusiast
+# Hi 👋 I'm Shujaat Ali
 
----
+### 💻 Software Engineering Student | 🚀 Backend Developer | 🌱 Tech Enthusiast
 
-## 💡 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Backend+Developer;Full+Stack+Learner;Building+Real+World+Projects;Always+Learning+New+Things" />
 
-I am a motivated Software Engineering student currently studying at Federal Urdu University (Islamabad).
-I enjoy building real-world applications and continuously improving my programming and problem-solving skills.
-
-🔹 Passionate about software development
-🔹 Interested in backend systems & web technologies
-🔹 Always learning and exploring new tools
+</div>
 
 ---
 
-## 🛠️ Skills
+# 💫 About Me
 
-### 💻 Programming
+🎓 Software Engineering Student at **Federal Urdu University Islamabad**  
 
-* C++
-* HTML, CSS
-* MS Office
-* Python
-* My SQL
+💻 Passionate about Backend Development & Modern Web Technologies  
 
-### 🌐 Web Development
+🚀 Currently learning and building real-world projects using modern development tools  
 
-* WordPress (Basic Development & Customization)
-
-### ⚙️ Tools & Technologies
-
-* Git & GitHub
-* VS Code
-* MS Office
-
-### 🤝 Soft Skills
-
-* Teamwork
-* Communication
-* Problem Solving
+⚡ Interested in:
+- Backend Development
+- Full Stack Web Development
+- Databases & APIs
+- SaaS Applications
 
 ---
 
-## 🚀 Projects
+# 🛠️ Tech Stack
 
-### 🔹 SmartCafe
+<div align="center">
 
-A cafe ordering system built to manage menu items and customer orders efficiently.
+<img src="https://skillicons.dev/icons?i=cpp,python,html,css,javascript,nodejs,express,mysql,sqlite,git,github,vscode" />
 
-### 🔹 Student Management System
-
-A system to handle student records, data management, and operations.
-
-### 🔹 Car Price Prediction (ML)
-
-A machine learning project that predicts car prices based on different features.
-
-### 🔹 Portfolio Website
-
-Designed a personal portfolio using HTML, CSS, and WordPress.
+</div>
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Featured Projects
 
-* 🔸 Active learner and contributor
-* 🔸 Continuously improving coding skills
-* 🔸 Building practical projects
+### 🚀 Mini SaaS Dashboard
+A full-stack SaaS-style dashboard built using Node.js, Express.js, SQLite, HTML, and CSS.
 
----
-
-## 🎯 Goals
-
-* Become a professional Full Stack Developer
-* Build scalable and efficient applications
-* Contribute to real-world projects and open source
-
----
-
-## 📫 Contact Me
-
-📍 Islamabad, Pakistan
-📧 [shujaatashoor@gmail.com](mailto:shujaatashoor@gmail.com)
-
-🔗 LinkedIn:
-https://www.linkedin.com/in/shujaat-ali-086823361?utm_source=share_via&utm_content=profile&utm_medium=member_android
+#### Features:
+- User Authentication
+- Session Management
+- Add/Delete Tasks
+- Dynamic Dashboard
+- SQLite Database Integration
+- Responsive UI
 
 ---
 
-⭐ *"Code. Learn. Build. Repeat."*
+### ☕ SmartCafe System
+A cafe management and ordering system for handling menu items and customer orders efficiently.
+
+#### Features:
+- Menu Management
+- Order Handling
+- Customer Management
+
+---
+
+### 🎓 Student Management System
+A complete system to manage student records and academic data.
+
+#### Features:
+- CRUD Operations
+- Student Data Management
+- Organized Database Structure
+
+---
+
+### 🤖 Car Price Prediction
+A Machine Learning project that predicts car prices using different datasets and features.
+
+#### Technologies:
+- Python
+- Machine Learning
+- Data Analysis
+
+---
+
+### 🌐 Portfolio Website
+A responsive portfolio website designed using HTML, CSS, and WordPress.
+
+#### Features:
+- Modern UI
+- Responsive Design
+- Project Showcase
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🎯 Current Goals
+
+✅ Become a Professional Full Stack Developer  
+✅ Build Scalable Web Applications  
+✅ Learn Advanced Backend Systems  
+✅ Contribute to Open Source Projects  
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="mailto:shujaatashoor@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/shujaat-ali-086823361">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ “Code. Learn. Build. Repeat.” ✨
+
+⭐ Thanks for visiting my profile ⭐
+
+</div>
