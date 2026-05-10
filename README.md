@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/0538e492-b60b-4c86-bd8e-6d98b743142d" width="180" style="border-radius:50%;" />
+<img src="https://github.com/user-attachments/assets/0538e492-b60b-4c86-bd8e-6d98b743142d" width="180"/>
 
 # Hi 👋 I'm Shujaat Ali
 
-### 💻 Software Engineering Student | 🚀 Backend Developer | 🌱 Tech Enthusiast
+### 💻 Software Engineering Student | 🚀 Full Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Backend+Developer;Full+Stack+Learner;Building+Real+World+Projects;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Backend+Developer;Frontend+Developer;Full+Stack+Learner;WordPress+Designer;Graphic+Designer;SEO+Specialist" />
 
 </div>
 
@@ -14,17 +14,11 @@
 
 # 💫 About Me
 
-🎓 Software Engineering Student at **Federal Urdu University Islamabad**  
+🎓 Software Engineering Student at **Federal Urdu University Islamabad**
 
-💻 Passionate about Backend Development & Modern Web Technologies  
+💻 Passionate about creating modern websites, backend systems, and real-world web applications.
 
-🚀 Currently learning and building real-world projects using modern development tools  
-
-⚡ Interested in:
-- Backend Development
-- Full Stack Web Development
-- Databases & APIs
-- SaaS Applications
+🚀 Currently learning advanced backend development and full stack technologies.
 
 ---
 
@@ -32,7 +26,24 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,html,css,javascript,nodejs,express,mysql,sqlite,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,mysql,sqlite,python,cpp,git,github,vscode,wordpress" />
+
+</div>
+
+---
+
+# 🚀 Services
+
+<div align="center">
+
+| 💼 Service | 📄 Description |
+|---|---|
+| 🌐 Frontend Development | Modern responsive website interfaces |
+| ⚙️ Backend Development | Secure server-side applications |
+| 🚀 Full Stack Development | Complete web application development |
+| 🎨 WordPress Designing | WordPress websites & customization |
+| 📈 SEO Optimization | Website SEO & performance improvements |
+| 🎭 Graphic Designing | Creative social media & branding designs |
 
 </div>
 
@@ -40,56 +51,36 @@
 
 # 🚀 Featured Projects
 
-### 🚀 Mini SaaS Dashboard
-A full-stack SaaS-style dashboard built using Node.js, Express.js, SQLite, HTML, and CSS.
+## 🚀 Mini SaaS Dashboard
+A modern SaaS-style dashboard built using Node.js, Express.js, SQLite, HTML, and CSS.
 
-#### Features:
-- User Authentication
-- Session Management
-- Add/Delete Tasks
-- Dynamic Dashboard
-- SQLite Database Integration
-- Responsive UI
-
----
-
-### ☕ SmartCafe System
-A cafe management and ordering system for handling menu items and customer orders efficiently.
-
-#### Features:
-- Menu Management
-- Order Handling
-- Customer Management
+### Features
+✔️ User Authentication  
+✔️ Session Management  
+✔️ Add/Delete Projects  
+✔️ Dynamic Dashboard  
+✔️ SQLite Database  
+✔️ Responsive UI  
 
 ---
 
-### 🎓 Student Management System
-A complete system to manage student records and academic data.
-
-#### Features:
-- CRUD Operations
-- Student Data Management
-- Organized Database Structure
+## ☕ SmartCafe System
+Cafe ordering and management system for handling menu items and customer orders.
 
 ---
 
-### 🤖 Car Price Prediction
-A Machine Learning project that predicts car prices using different datasets and features.
-
-#### Technologies:
-- Python
-- Machine Learning
-- Data Analysis
+## 🎓 Student Management System
+System for managing student records and academic operations.
 
 ---
 
-### 🌐 Portfolio Website
-A responsive portfolio website designed using HTML, CSS, and WordPress.
+## 🤖 Car Price Prediction
+Machine Learning project for predicting vehicle prices.
 
-#### Features:
-- Modern UI
-- Responsive Design
-- Project Showcase
+---
+
+## 🌐 Portfolio Website
+Responsive personal portfolio website with modern UI design.
 
 ---
 
@@ -97,9 +88,9 @@ A responsive portfolio website designed using HTML, CSS, and WordPress.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
 
@@ -108,13 +99,13 @@ A responsive portfolio website designed using HTML, CSS, and WordPress.
 # 🎯 Current Goals
 
 ✅ Become a Professional Full Stack Developer  
-✅ Build Scalable Web Applications  
-✅ Learn Advanced Backend Systems  
+✅ Build Scalable SaaS Applications  
+✅ Learn Advanced Backend Development  
 ✅ Contribute to Open Source Projects  
 
 ---
 
-# 🤝 Connect With Me
+# 📫 Connect With Me
 
 <div align="center">
 
@@ -132,7 +123,9 @@ A responsive portfolio website designed using HTML, CSS, and WordPress.
 
 <div align="center">
 
-### ✨ “Code. Learn. Build. Repeat.” ✨
+# ✨ Quote
+
+### “Code. Learn. Build. Repeat.”
 
 ⭐ Thanks for visiting my profile ⭐
 
