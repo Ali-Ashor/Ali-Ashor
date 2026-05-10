@@ -34,18 +34,111 @@
 
 # 🚀 Services
 
-<div align="center">
+<table>
+<tr>
 
-| 💼 Service | 📄 Description |
-|---|---|
-| 🌐 Frontend Development | Modern responsive website interfaces |
-| ⚙️ Backend Development | Secure server-side applications |
-| 🚀 Full Stack Development | Complete web application development |
-| 🎨 WordPress Designing | WordPress websites & customization |
-| 📈 SEO Optimization | Website SEO & performance improvements |
-| 🎭 Graphic Designing | Creative social media & branding designs |
+<td align="center" width="250">
 
-</div>
+<a href="https://github.com/YOUR_USERNAME?tab=repositories">
+
+<img src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png" width="80"/>
+
+<br><br>
+
+## 🌐 Web Development
+
+Click to view all web development projects
+
+</a>
+
+</td>
+
+<td align="center" width="250">
+
+<a href="https://github.com/YOUR_USERNAME?tab=repositories">
+
+<img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="80"/>
+
+<br><br>
+
+## ⚙️ Backend Development
+
+Click to explore backend projects
+
+</a>
+
+</td>
+
+<td align="center" width="250">
+
+<a href="https://github.com/YOUR_USERNAME?tab=repositories">
+
+<img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="80"/>
+
+<br><br>
+
+## 🚀 Full Stack Development
+
+View complete full stack applications
+
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="250">
+
+<a href="https://github.com/YOUR_USERNAME?tab=repositories">
+
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="80"/>
+
+<br><br>
+
+## 🎨 WordPress Designing
+
+Explore WordPress websites & designs
+
+</a>
+
+</td>
+
+<td align="center" width="250">
+
+<a href="https://github.com/YOUR_USERNAME?tab=repositories">
+
+<img src="https://cdn-icons-png.flaticon.com/512/2991/2991148.png" width="80"/>
+
+<br><br>
+
+## 📈 SEO Optimization
+
+View SEO related projects & work
+
+</a>
+
+</td>
+
+<td align="center" width="250">
+
+<a href="https://github.com/YOUR_USERNAME?tab=repositories">
+
+<img src="https://cdn-icons-png.flaticon.com/512/1829/1829586.png" width="80"/>
+
+<br><br>
+
+## 🎭 Graphic Designing
+
+Explore creative graphic design work
+
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
