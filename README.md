@@ -118,7 +118,7 @@ A responsive portfolio website designed using HTML, CSS, and WordPress.
 
 <div align="center">
 
-<a href="mailto:shujaatashoor@gmail.com">
+<a href="mailto:shujaatashoor1572@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
