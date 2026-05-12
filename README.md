@@ -2,8 +2,6 @@
 
 <img src="https://github.com/user-attachments/assets/0538e492-b60b-4c86-bd8e-6d98b743142d" width="180"/>
 
-# Hi 👋 I'm Shujaat Ali
-
 ### 💻 Software Engineering Student | 🚀 Full Stack Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Backend+Developer;Frontend+Developer;Full+Stack+Learner;WordPress+Designer;Graphic+Designer;SEO+Specialist" />
