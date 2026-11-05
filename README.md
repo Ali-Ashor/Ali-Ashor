@@ -35,7 +35,7 @@
 <table>
 <tr>
 
-<td align="center" width="255">
+<td align="center" width="300">
 
 
 <img src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png" width="120"/>
