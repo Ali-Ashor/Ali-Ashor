@@ -32,90 +32,50 @@
 
 # 🚀 Services
 
-<table>
+<table width="100%">
 <tr>
 
-<td align="center" width="300">
-
-
-<img src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png" width="120"/>
-
-<br><br>
-
-## 🌐 Web Development
-
-</a>
-
+<td align="center" width="33%">
+<img src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png" width="50"/>
+<br>
+<b>🌐 Web<br>Development</b>
 </td>
 
-<td align="center" width="255">
-
-<img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="83"/>
-
-<br><br>
-
-## ⚙️ Backend Development
-
-</a>
-
+<td align="center" width="33%">
+<img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="50"/>
+<br>
+<b>⚙️ Backend<br>Development</b>
 </td>
 
-<td align="center" width="255">
-
-<img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="83"/>
-
-<br><br>
-
-## 🚀 Full Stack Development
-
-</a>
-
+<td align="center" width="33%">
+<img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="50"/>
+<br>
+<b>🚀 Full Stack<br>Development</b>
 </td>
 
 </tr>
-
 <tr>
 
-<td align="center" width="255">
-
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="83"/>
-
-<br><br>
-
-## 🎨 WordPress Designing
-
-</a>
-
+<td align="center" width="33%">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="50"/>
+<br>
+<b>🎨 WordPress<br>Designing</b>
 </td>
 
-<td align="center" width="255">
-
-<img src="https://cdn-icons-png.flaticon.com/512/2991/2991148.png" width="83"/>
-
-<br><br>
-
-## 📈 SEO Optimization
-
-</a>
-
+<td align="center" width="33%">
+<img src="https://cdn-icons-png.flaticon.com/512/2991/2991148.png" width="50"/>
+<br>
+<b>📈 SEO<br>Optimization</b>
 </td>
 
-<td align="center" width="255">
-
-<img src="https://cdn-icons-png.flaticon.com/512/1829/1829586.png" width="83"/>
-
-<br><br>
-
-## 🎭 Graphic Designing
-
-</a>
-
+<td align="center" width="33%">
+<img src="https://cdn-icons-png.flaticon.com/512/1829/1829586.png" width="50"/>
+<br>
+<b>🎭 Graphic<br>Designing</b>
 </td>
 
 </tr>
 </table>
-
----
 
 # 🚀 Featured Projects
 
