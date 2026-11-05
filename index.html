@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ali Ashor | Full Stack Developer</title>
+<meta name="description" content="Software Engineering student and full stack developer building websites, backend systems and web apps.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,800&family=JetBrains+Mono:wght@400;500&family=Poppins:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="nav">
+  <a class="logo" href="#top">Ali Ashor</a>
+  <button class="menu-btn" aria-label="Toggle menu" aria-expanded="false">Menu</button>
+  <nav id="links">
+    <a href="#about">About</a><a href="#skills">Skills</a><a href="#services">Services</a><a href="#projects">Projects</a><a href="#contact">Contact</a>
+  </nav>
+</header>
+
+<main id="top">
+  <section class="hero">
+    <div class="hero-text">
+      <p class="role">I am a <span id="typed"></span><span class="caret">|</span></p>
+      <h1>I build websites and backends that work in the real world.</h1>
+      <p class="lead">Software Engineering student at Federal Urdu University Islamabad. I design, code and ship web applications from database to interface.</p>
+      <div class="cta">
+        <a class="btn primary" href="#projects">See my projects</a>
+        <a class="btn" href="#contact">Send a message</a>
+      </div>
+    </div>
+    <div class="code-window" aria-label="Live response from this site's own API">
+      <div class="code-bar"><i></i><i></i><i></i><span>GET /api/projects</span></div>
+      <pre id="api-out">Loading from the Node.js server...</pre>
+    </div>
+  </section>
+
+  <section id="about" class="section">
+    <h2>About me</h2>
+    <p>I am a Software Engineering student who enjoys building modern websites, backend systems and full stack applications. I am learning advanced backend development and I take on web, WordPress, SEO and design work.</p>
+  </section>
+
+  <section id="skills" class="section">
+    <h2>Tech stack</h2>
+    <ul class="chips" id="skill-list"></ul>
+  </section>
+
+  <section id="services" class="section">
+    <h2>What I can build for you</h2>
+    <div class="services">
+      <div><h3>Web development</h3><p>Fast, responsive websites that look right on every screen.</p></div>
+      <div><h3>Backend development</h3><p>APIs, authentication and databases with Node.js and Express.</p></div>
+      <div><h3>Full stack apps</h3><p>Complete products from database to interface.</p></div>
+      <div><h3>WordPress design</h3><p>Custom WordPress sites you can manage yourself.</p></div>
+      <div><h3>SEO optimization</h3><p>Technical and content fixes that help pages get found.</p></div>
+      <div><h3>Graphic design</h3><p>Visuals and layouts that match your brand.</p></div>
+    </div>
+  </section>
+
+  <section id="projects" class="section">
+    <h2>Featured projects</h2>
+    <div class="projects" id="project-list"><p>Loading projects...</p></div>
+  </section>
+
+  <section class="section">
+    <h2>Current goals</h2>
+    <ul class="goals">
+      <li>Become a professional full stack developer</li>
+      <li>Build scalable SaaS applications</li>
+      <li>Learn advanced backend development</li>
+      <li>Contribute to open source projects</li>
+    </ul>
+  </section>
+
+  <section id="contact" class="section">
+    <h2>Contact me</h2>
+    <p>Tell me about your project or idea. I read every message.</p>
+    <form id="contact-form" novalidate>
+      <label>Name <input name="name" type="text" required minlength="2" maxlength="80" autocomplete="name"></label>
+      <label>Email <input name="email" type="email" required maxlength="120" autocomplete="email"></label>
+      <label>Message <textarea name="message" rows="5" required minlength="10" maxlength="2000"></textarea></label>
+      <button class="btn primary" type="submit">Send message</button>
+      <p id="form-status" role="status" aria-live="polite"></p>
+    </form>
+  </section>
+</main>
+
+<footer>
+  <p>Code. Learn. Build. Repeat.</p>
+  <p><a href="https://github.com/Ali-Ashor" target="_blank" rel="noopener">GitHub</a> and <a href="https://www.linkedin.com/in/shujaat-ali-086823361" target="_blank" rel="noopener">LinkedIn</a></p>
+</footer>
+<script src="script.js"></script>
+</body>
+</html>
