@@ -38,7 +38,7 @@
 <td align="center" width="255">
 
 
-<img src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png" width="80"/>
+<img src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png" width="120"/>
 
 <br><br>
 
