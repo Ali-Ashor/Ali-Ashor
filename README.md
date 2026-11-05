@@ -82,33 +82,72 @@
 ## 🚀 Mini SaaS Dashboard
 A modern SaaS-style dashboard built using Node.js, Express.js, SQLite, HTML, and CSS.
 
+**Tech Stack:** Node.js · Express.js · SQLite · HTML · CSS
+
 ### Features
-✔️ User Authentication  
-✔️ Session Management  
-✔️ Add/Delete Projects  
-✔️ Dynamic Dashboard  
-✔️ SQLite Database  
-✔️ Responsive UI  
+- ✔️ User Authentication
+- ✔️ Session Management
+- ✔️ Add/Delete Projects
+- ✔️ Dynamic Dashboard
+- ✔️ SQLite Database
+- ✔️ Responsive UI
 
 ---
 
 ## ☕ SmartCafe System
-Cafe ordering and management system for handling menu items and customer orders.
+A cafe ordering and management system that helps handle menu items and customer orders in one place, replacing manual order taking with a faster digital workflow.
+
+**Tech Stack:** Node.js · Express.js · MySQL · HTML · CSS · JavaScript
+
+### Features
+- ✔️ Menu Item Management (Add, Edit, Delete)
+- ✔️ Customer Order Placement
+- ✔️ Order Status Tracking
+- ✔️ Bill and Total Calculation
+- ✔️ Database Storage
+- ✔️ Easy-to-Use Interface
 
 ---
 
 ## 🎓 Student Management System
-System for managing student records and academic operations.
+A system for managing student records and academic operations, built to keep student data organized and easy to find.
+
+**Tech Stack:** Node.js · Express.js · SQL Database · HTML · CSS · JavaScript
+
+### Features
+- ✔️ Add, Update and Delete Student Records
+- ✔️ Search and View Student Details
+- ✔️ Academic Information Management
+- ✔️ Organized Database Storage
+- ✔️ Clean and Simple Interface
 
 ---
 
 ## 🤖 Car Price Prediction
-Machine Learning project for predicting vehicle prices.
+A machine learning project that predicts the price of a vehicle based on its features such as brand, model year, mileage and fuel type.
+
+**Tech Stack:** Python · Pandas · NumPy · Scikit-learn
+
+### Features
+- ✔️ Data Cleaning and Preprocessing
+- ✔️ Feature Selection and Encoding
+- ✔️ Model Training and Testing
+- ✔️ Accurate Price Prediction
+- ✔️ Model Performance Evaluation
 
 ---
 
 ## 🌐 Portfolio Website
-Responsive personal portfolio website with modern UI design.
+A responsive personal portfolio website with a modern UI, a Node.js backend and a working contact form.
+
+**Tech Stack:** HTML · CSS · JavaScript · Node.js · Express.js
+
+### Features
+- ✔️ Fully Responsive Design (Laptop and Mobile)
+- ✔️ Dynamic Projects Loaded from an API
+- ✔️ Contact Form with Validation
+- ✔️ Animated Typing Intro
+- ✔️ Clean Modern UI
 
 ---
 
